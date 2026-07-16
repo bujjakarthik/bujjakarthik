@@ -83,3 +83,5 @@
 
 
 ⭐ **Thanks for visiting my profile! I'm always learning, building, and improving.**
+
+![](https://komarev.com/ghpvc/?username=bujjakarthik&color=blue)
