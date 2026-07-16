@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bujja+Karthik;Aspiring+Software+Engineer;Java+%7C+Python+%7C+Backend+Developer;Always+Learning+New+Technologies" />
+</p>
+
 # Hi 👋, I'm Bujja Karthik
 
 ### 🎓 Final-Year B.E. Computer Science Engineering Student | Aspiring Software Engineer
