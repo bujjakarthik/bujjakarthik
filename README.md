@@ -26,9 +26,9 @@
 ### Currently Learning
 - ☕ Java
 - 📚 Data Structures & Algorithms
-- 🌿 Spring Boot
 - 🗄️ SQL
 - 💻 Backend Development
+- 💡 Problem Solving
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -43,15 +43,6 @@
 * 🩺 **AI Medical Image Analysis** – Deep learning-based pneumonia detection
 * 📊 **Employee Performance Predictor** – Machine Learning project
 * 💰 **Expense Tracker** – Personal expense management application
-
----
-
-## 📚 Currently Working On
-
-* ☕ Java Programming
-* 📚 Data Structures & Algorithms
-* 🌱 Spring Boot
-* 💡 Problem Solving
 
 ---
 
