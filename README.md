@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karthik B
+# Hi 👋, I'm Bujja Karthik
 
 ### 🎓 Final-Year B.E. Computer Science Engineering Student | Aspiring Software Engineer
 
@@ -19,7 +19,9 @@
 ## 💻 Skills
 
 ### Programming Languages
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode" />
+</p>
 * Java
 * Python
 * C
@@ -60,11 +62,15 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bujjakarthik&show_icons=true&theme=tokyonight" height="170"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bujjakarthik\&show_icons=true\&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bujjakarthik&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bujjakarthik\&layout=compact\&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
 ---
 
 ## 📫 Connect with Me
@@ -82,7 +88,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/YOUR_USERNAME/">
+  <a href="https://leetcode.com/BUJJAKARTHIK/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
@@ -93,3 +99,5 @@
 ---
 
 ⭐ Thanks for visiting my profile! I'm always learning and improving my skills.
+![](https://komarev.com/ghpvc/?username=bujjakarthik&color=blue)
+![Snake animation](https://github.com/bujjakarthik/bujjakarthik/blob/output/github-contribution-grid-snake.svg)
