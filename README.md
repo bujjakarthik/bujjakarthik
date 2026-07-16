@@ -24,16 +24,17 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Currently Learning
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ☕ Java
+- 📚 Data Structures & Algorithms
+- 🌿 Spring Boot
+- 🗄️ SQL
+- 💻 Backend Development=white)
 
 ### Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
@@ -90,12 +91,5 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/bujjakarthik/bujjakarthik/blob/output/github-contribution-grid-snake.svg)
-
----
-
-![](https://komarev.com/ghpvc/?username=bujjakarthik\&color=blue\&style=for-the-badge)
 
 ⭐ **Thanks for visiting my profile! I'm always learning, building, and improving.**
