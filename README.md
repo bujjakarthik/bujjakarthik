@@ -3,6 +3,7 @@
   Hi there, I'm
     Bujja Karthik
 </h1>
+
 ### 🎓 Final-Year B.E. Computer Science Engineering Student | Aspiring Software Engineer
 
 💻 Passionate about programming, problem-solving, and building software while continuously learning new technologies.
