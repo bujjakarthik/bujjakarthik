@@ -1,9 +1,7 @@
 
 <h1 align="left">
   Hi there, I'm
-  <a href="https://dineshkaarthik.vercel.app/">
     Bujja Karthik
-  </a>
 </h1>
 ### 🎓 Final-Year B.E. Computer Science Engineering Student | Aspiring Software Engineer
 
